@@ -1,2 +1,2 @@
 # ebac-test
-Teste de repositório para EBAC
+Este repositório é apenas para fins educativos para uma tarefa da EBAC.
